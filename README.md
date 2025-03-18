@@ -2,19 +2,23 @@
 
 Smart Study is a learning management system designed to help users follow structured study plans efficiently. It provides daily tasks, progress tracking, and interactive quizzes to enhance the learning experience.
 
-Over two days, we built a comprehensive study platform that leverages on-device AI to:
-📆 Study Plans – Organize learning materials into daily tasks.
-✅ Progress Tracking – Mark tasks as completed and track study progress.
-❓ Interactive Quizzes – Answer multiple-choice questions to reinforce learning.
-🔍 Search & Filter – Easily find topics and navigate study plans.
-🌐 User-Friendly UI – Responsive and intuitive interface for a smooth experience.
+Over two days, we built a comprehensive study platform that leverages on-device AI. 
 
-Tech Stack
-✅ React/TypeScript frontend with Material UI
-✅ Flask backend with SQLite database
-✅ Local LLM integration for on-device content analysis
-✅ Edge AI for question generation and study plan creation
-✅ Performance visualization with Recharts
+
+### 🚀 Features
+#### 📆 Study Plans – Organize learning materials into daily tasks.
+#### ✅ Progress Tracking – Mark tasks as completed and track study progress.
+#### ❓ Interactive Quizzes – Answer multiple-choice questions to reinforce learning.
+#### 🔍 Search & Filter – Easily find topics and navigate study plans.
+#### 🌐 User-Friendly UI – Responsive and intuitive interface for a smooth experience.
+
+
+### 🛠️ Tech Stack
+#### ✅ React/TypeScript frontend with Material UI
+#### ✅ Flask backend with SQLite database
+#### ✅ Local LLM integration for on-device content analysis
+#### ✅ Edge AI for question generation and study plan creation
+#### ✅ Performance visualization with Recharts
 
 It was incredible to see what we could build in just 24 hours with the Snapdragon X Elite Copilot+ PC. The power of on-device AI is truly game-changing!
 
@@ -42,6 +46,6 @@ npm run start
 ### Contributors:
 - xukunzh Blaire_xukun
 - learnerInTheFirstStage Allen Guo
-- Crystal0GMY
+- Crystal0GMY Meiyi Guang
 - DucianX Yitian
 - cristiipan Yuzheng Pan
