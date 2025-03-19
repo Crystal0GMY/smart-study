@@ -1,8 +1,10 @@
 ﻿# smart-study
 
+## Qualcomm & Microsoft On-Device AI Builders Hackathon
+
 Smart Study is a learning management system designed to help users follow structured study plans efficiently. It provides daily tasks, progress tracking, and interactive quizzes to enhance the learning experience.
 
-Over two days, we built a comprehensive study platform that leverages on-device AI. 
+Over 24 hours, we built a comprehensive study platform that leverages on-device AI. 
 
 
 ### 🚀 Features
